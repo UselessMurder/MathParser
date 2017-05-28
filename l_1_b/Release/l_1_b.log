@@ -1,0 +1,7 @@
+﻿  l_1_b.cpp
+  l_1_b_face.cpp
+  Создание кода...
+d:\old\projects\l_1_b\l_1_b\l_1_b.cpp(899): warning C4723: возможное деление на 0
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  l_1_b.vcxproj -> D:\old\Projects\l_1_b\Release\l_1_b.exe
+  l_1_b.vcxproj -> D:\old\Projects\l_1_b\Release\l_1_b.pdb (Full PDB)

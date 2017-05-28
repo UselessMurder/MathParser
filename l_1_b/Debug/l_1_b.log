@@ -1,0 +1,7 @@
+﻿  l_1_b.cpp
+  l_1_b_face.cpp
+  Создание кода...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  l_1_b.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  l_1_b.vcxproj -> D:\old\Projects\l_1_b\Debug\l_1_b.exe
+  l_1_b.vcxproj -> D:\old\Projects\l_1_b\Debug\l_1_b.pdb (Partial PDB)
